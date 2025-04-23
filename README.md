@@ -266,6 +266,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 
+![Screenshot 2025-04-23 171455](https://github.com/user-attachments/assets/80522af6-88a0-4214-8733-b5f576fee89b)
+
  ![Screenshot 2025-04-23 141601](https://github.com/user-attachments/assets/23a72324-30db-47bc-b283-6be4155ae7b3)
 
 ![Screenshot 2025-04-23 141509](https://github.com/user-attachments/assets/ac938969-5f4d-4b79-bc4b-6616f6f7f63f)
